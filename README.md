@@ -9,7 +9,7 @@ This repository contains an analytical report addressing Shopee’s logistics sc
 
 ## 📂 Contents
 - `report.md`: Full case analysis
-- `Shopee_Data.csv`: Cleaned raw dataset
+- `Shopee Logistics Case Challenge Data.csv`: Cleaned raw dataset
 - `visuals/`: Charts and plots to visualize insights
 
 ## 📊 Key Insights
